@@ -4,8 +4,11 @@
 A skilled React JS developer with 6+ years of experience. Has strong competence in translating business needs into technical requirements. Has expertise in leading and motivating teams.  A client-oriented mind, good time management, project management, communication, and interpersonal skills. Participates as a high-level technical expert in coding, testing, and debugging new software or significant enhancements to existing software.
 
 ## My recent projects:<br/>
-:pushpin:Project 1. **Cybersecurity Platform**. The client offers immersive cyber security training through an 'escape room' experience. The app was designed to engage users in the learning process with an existing computer game.
-The platform offers multiple storylines, sets of training videos, questions, and puzzles. Software now has 1-3 minute nano- and micro-learning modules that are easy to consume and memorable for any time, anywhere training. With weaknesses and strengths accurately measured, and potential gaps predicted and isolated, innovative individual and team training programs create proven, lasting change in user behavior<br/>
+:pushpin:Project 1. **Cybersecurity Platform** - a set of products for enterprise organizations that help educate employees about cybersecurity, including CRM-platform for company admins, a training platform for employees, analytic dashboards, and more. USA-based team.
+
+:pushpin:Project 3:  **Banking web platform** - a product that introduces to customers available bank products, and provides customers the opportunity of filing all forms online without a presence in a bank. International team
+
+:pushpin:Project 4:  **Trading platform** - a product that helps users to build their own trading strategy without zero coding by providing a convenient UI/UX. International team
 
 ## My Stack:
 
