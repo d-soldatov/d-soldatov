@@ -35,6 +35,15 @@ The platform offers multiple storylines, sets of training videos, questions, and
 <img height="15" width="15" src="https://cdn.simpleicons.org/bootstrap"/> Bootstrap <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/storybook"/> Develop an UI kit in isolation with Storybook <br/>
 
+#### Testing
+<img height="15" width="15" src="https://cdn.simpleicons.org/jest"/> Jest + react-testing-library <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/cypress"/> Cypress basics <br/>
+
+#### CI/CD
+<img height="15" width="15" src="https://cdn.simpleicons.org/githubactions"/> Github, Github Actions <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/gitlab"/> Gitlab <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/bitbucket"/> Bitbucket <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/microsoftazure"/> Azure <br/>
 
 ### Backend
 
