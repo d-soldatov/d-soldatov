@@ -1,4 +1,13 @@
-### Hi there 👋
+![Banner-Github-Dmitriy](https://user-images.githubusercontent.com/69015016/223673561-bf9f8f79-da43-424e-b6f3-65b4d002dfe6.jpg)
+
+My Stack:
+
+<img height="15" width="15" src="https://cdn.simpleicons.org/html5"/> HTML <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/css3"/> CSS <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/javascript"/> <img height="15" width="15" src="https://cdn.simpleicons.org/typescript"/> Javascript/Typescript <br/>
+
+<img height="15" width="15" src="https://cdn.simpleicons.org/react"/> React <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/redux"/> Redux <br/>
 
 <!--
 **d-soldatov/d-soldatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
