@@ -14,8 +14,7 @@ A skilled React JS developer with 6+ years of experience. Has strong competence 
 
 ### Frontend
 
-<img height="15" width="15" src="https://cdn.simpleicons.org/html5"/> HTML <br/>
-<img height="15" width="15" src="https://cdn.simpleicons.org/css3"/> CSS <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/html5"/> HTML / <img height="15" width="15" src="https://cdn.simpleicons.org/css3"/> CSS <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/javascript"/> Javascript / <img height="15" width="15" src="https://cdn.simpleicons.org/typescript"/> Typescript <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/webpack"/> Webpack  / <img height="15" width="15" src="https://cdn.simpleicons.org/rollupdotjs"/> Rollup <br/>
 
