@@ -14,7 +14,21 @@ The platform offers multiple storylines, sets of training videos, questions, and
 <img height="15" width="15" src="https://cdn.simpleicons.org/javascript"/> <img height="15" width="15" src="https://cdn.simpleicons.org/typescript"/> Javascript/Typescript <br/>
 
 <img height="15" width="15" src="https://cdn.simpleicons.org/react"/> React <br/>
+
+#### React Ecosystem
+
+<img height="15" width="15" src="https://cdn.simpleicons.org/nextdotjs"/> Next JS <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/redux"/> Redux <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/reduxsaga"/> Redux Saga <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/reactrouter"/> React Router <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/reacthookform"/> React Hook Form / Formik <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/reacttable"/> React Table, react-select, etc <br/>
+
+#### Styling approaches
+<img height="15" width="15" src="https://cdn.simpleicons.org/cssmodules"/> CSS Modules <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/sass"/> SCSS <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/styledcomponents"/> Styled Components <br/>
+
 
 ### Backend
 
