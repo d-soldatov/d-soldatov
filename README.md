@@ -14,7 +14,8 @@ The platform offers multiple storylines, sets of training videos, questions, and
 
 <img height="15" width="15" src="https://cdn.simpleicons.org/html5"/> HTML <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/css3"/> CSS <br/>
-<img height="15" width="15" src="https://cdn.simpleicons.org/javascript"/> <img height="15" width="15" src="https://cdn.simpleicons.org/typescript"/> Javascript/Typescript <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/javascript"/> Javascript / <img height="15" width="15" src="https://cdn.simpleicons.org/typescript"/> Typescript <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/webpack"/> Webpack  / <img height="15" width="15" src="https://cdn.simpleicons.org/rollupdotjs"/> Rollup <br/>
 
 #### React Ecosystem
 <img height="15" width="15" src="https://cdn.simpleicons.org/react"/> React 16+ <br/>
