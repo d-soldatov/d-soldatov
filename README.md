@@ -25,6 +25,7 @@ The platform offers multiple storylines, sets of training videos, questions, and
 <img height="15" width="15" src="https://cdn.simpleicons.org/reactrouter"/> React Router <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/reacthookform"/> React Hook Form / Formik <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/reacttable"/> React Table, react-select, etc <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/i18next"/>  React-i18next <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/apollographql"/> Apollo Client 3 <br/>
 
 #### Styling approaches
