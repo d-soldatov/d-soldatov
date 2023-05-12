@@ -1,4 +1,4 @@
-![Banner-Github-Dmitriy](https://user-images.githubusercontent.com/69015016/223673561-bf9f8f79-da43-424e-b6f3-65b4d002dfe6.jpg)
+<!-- ![Banner-Github-Dmitriy](https://user-images.githubusercontent.com/69015016/223673561-bf9f8f79-da43-424e-b6f3-65b4d002dfe6.jpg) -->
 
 ## About me
 A skilled React JS developer with 6+ years of experience. Has strong competence in translating business needs into technical requirements. Has expertise in leading and motivating teams.  A client-oriented mind, good time management, project management, communication, and interpersonal skills. Participates as a high-level technical expert in coding, testing, and debugging new software or significant enhancements to existing software.
